@@ -1,0 +1,72 @@
+/* ---------------------------------
+rsponsive for mobile 
+------------------------------------*/
+
+@media screen and (max-width:375px) {
+    body {
+
+        width: 375px;
+
+    }
+
+
+    main {
+
+        padding: 44px 20px 24px;
+
+    }
+
+    .section-1 {
+        width: 334px;
+        height: 472px;
+        background: #161616;
+        color: white;
+        margin-bottom: 24px;
+
+    }
+
+    /* .section-1 {
+        margin: 0 auto;
+        width: 1321px;
+        height: 646px;
+        background: #161616;
+        border-radius: 30px;
+        color: white;
+    
+        margin-bottom: 50px;
+    
+    
+    } */
+
+    .top-banner {
+        /* display: flex; */
+        /* align-items: center; */
+        flex-direction: column;
+
+
+    }
+
+    .banner-info {
+        margin: 0px 0px 0px 0px ;
+    }
+
+    /* .banner-title {
+        color: #FFFFFF;
+        font-weight: 700;
+        font-size: 70px;
+        line-height: 80px;
+        margin-bottom: 4px;
+    } */
+
+    .banner-title {
+        line-height: 33px;
+        text-align: center;
+        font-size: 22px;
+    }
+
+
+
+
+
+
+}

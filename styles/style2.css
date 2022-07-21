@@ -1,0 +1,12 @@
+/*-------------------------
+ responsive for table
+ ------------------------------------------- */
+
+@media screen and(min-width:376px) and (max-width:843px) {
+
+    body {
+        background-color: red;
+        ;
+    }
+
+}
